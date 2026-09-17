@@ -1,0 +1,37 @@
+import 'package:flutter/material.dart';
+
+const appBarColor = Color.fromRGBO(75, 60, 185, 1);
+const mBackgroundColor = Color.fromARGB(255, 242, 243, 171);
+const mBlackColor = Color.fromARGB(255, 0, 0, 0);
+const mTitleColor = Color.fromRGBO(173, 142, 6, 1);
+const mSubtitleColor = Color(0xFF8E8E8E);
+const mBorderColor = Color(0xFFE8E8F3);
+const mFillColor = Color(0xFFFFFFFF);
+const mCardTitleColor = Color(0xff0f194a);
+const mCardSubtitleColor = mTitleColor;
+const mWhiteColor = Colors.white;
+const cBgColorLightGold = Color(0xff1b3f8b);
+const bgColorGold = Color(0xff0f194a);
+const bgColorPinkDark = Color.fromARGB(255, 221, 164, 22);
+const bgColorYellow = Color(0xffdcb67f);
+const bgColorLightYellow = Color(0xfffffbe0);
+const bgColorLightGold = Color.fromARGB(255, 238, 255, 170);
+const bgColorLightSplash = Color.fromRGBO(223, 203, 161, 1);
+const bgColorGreen = Color(0xff636135);
+const containerColor = Color.fromARGB(255, 255, 230, 206);
+const cBgColorGreen = Color(0xff33ba6c);
+const cSalmonMain = Color(0xFF305f72);
+const cSalmon1 = Color(0xFFf19895);
+const cSalmon2 = Color(0xFFec8689);
+const cSalmon3 = Color(0xFFbb7f87);
+const cHeadingText = Color(0xFF305f72);
+const cCategoryBG = Color(0xFFfef3f3);
+const cCategory1BG = Color(0xFF5AA6C8);
+const cCourseBG = Color(0xFF613E53);
+const cSelectedBorder = Color(0xFFD5D5D5);
+
+const cAdobeXd = Color(0xFFffe9f9);
+const cAdobePS = Color(0xFFeaf9fe);
+const cAdobeAF = Color.fromARGB(255, 255, 244, 232);
+const cSketch = Color(0xFF1b3f8b);
+const cFigma = Color.fromARGB(255, 254, 255, 250);
